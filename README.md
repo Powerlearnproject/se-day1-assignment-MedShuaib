@@ -7,7 +7,6 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Software Engineering is the application of Engineering principles, methods and tools to the development & mentainance of Software systems. It involves the design, development, testing, deployment and maintenance of software products (like YouTube, Windows OS, etc).
 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 Few key milestones in the evolution of software engineering are:
 1. The Birth of Computer Programming: The earliest computers were developed in the 1940s, and with them came the need for programming.
@@ -33,7 +32,6 @@ Software Development Life Cycle involves several phases:
 5. Deployment: Releasing the software to users 
 6. Maintenance: Providing ongoing supports, updates and enhancements to the software after deployment.
    
-
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 The Waterfall model is a linear and sequential approach to software development. It consists of distinct phases such as Requirements, Design, Implementation, Testing, Deployment, and Maintenance. Each phase must be completed before the next begins, and there is little to no overlap between phases.
